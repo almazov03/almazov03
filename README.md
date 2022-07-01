@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Arslan</h1>
-<h3 align="center">Freshman at ITMO University. CSE '25.</h3>
+<h1 align="center">Hey 👋, I'm Pavel</h1>
+<h3 align="center">AMI student @ HSE St. Petersburg</h3>
 
 - 🌱 I’m currently learning **Java**, **Kotlin**
 
