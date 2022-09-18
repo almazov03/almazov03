@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pavel</h1>
 <h3 align="center">AMI student @ HSE St. Petersburg</h3>
 
-- 🌱 I’m currently learning **Java**, **Haskell** **C++**
+- 🌱 I’m currently learning **Java**, **Haskell**, **C++**
 
 - 📫 How to reach me **almazov.03@list.ru**
 
