@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**, **Haskell**, **C++**
 
-- 📫 How to reach me **almazov.03@list.ru**
+- 📫 How to reach me **almazov.03@list.ru** **https://t.me/LOL_LOL90**
 
 - 😎 My [resume](https://clck.ru/rgWyn)
 
